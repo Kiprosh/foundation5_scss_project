@@ -13,7 +13,7 @@ The easiest way to get started with Foundation + Compass.
 
   * [Download this starter compass project and unzip it](https://github.com/zurb/foundation-compass-template/archive/master.zip)
   * Run `bower install` to install the latest version of Foundation
-  
+
 Then when you're working on your project, just run the following command:
 
 ```bash
@@ -27,3 +27,10 @@ If you'd like to upgrade to a newer version of Foundation down the road just run
 ```bash
 bower update
 ```
+
+## Purpose
+
+  * This is the custom project where we have customized button with the gradient look
+  * Added font.scss to customize the font-family. This will help developer to just quickly change the font family name as per need and generate required
+  .css file for the project
+  * This repo can be cloned and used to start with the Foundation 5 Scss customisation

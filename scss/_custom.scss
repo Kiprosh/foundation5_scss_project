@@ -1,0 +1,3 @@
+.button-with-gradient {
+  @include btn-gradinet-style($pms-header-dark, $pms-header-light);
+}
